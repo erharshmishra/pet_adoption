@@ -6,7 +6,7 @@ Welcome to adoptme.com — a simple and heartwarming website designed to promote
 ## 🌐 Live Demo
 
 
-📁 Project Structure
+## 📁 Project Structure
 ├── index.html       # Main HTML file (this project) <br>
 ├── style.css        # Linked stylesheet for styling the page <br>
 ├── dog.jpg          # Image for Jerry (dog) <br>
@@ -20,10 +20,10 @@ Welcome to adoptme.com — a simple and heartwarming website designed to promote
 - Simple and beginner-friendly HTML structure
 
 ## 📸 Pets Available for Adoption
-**🐶 Jerry**
+**🐶 Jerry** <br>
 A medium-sized, affectionate dog with fluffy fur and brown eyes. Jerry is loyal, joyful, and looking for a loving home.
 
-**🐱 Tom**
+**🐱 Tom** <br>
 A sleek black-and-white domestic cat with green eyes. Tom is playful, loving, and full of personality.
 
 ## 🛠️ Technologies Used
@@ -44,7 +44,7 @@ A sleek black-and-white domestic cat with green eyes. Tom is playful, loving, an
 Feel free to fork this project and add more pets, animations, or style improvements.
 
 ## 👤 Author
-Harsh Mishra
+Harsh Mishra <br>
 Email: harshmishra8103@gmail.com
 
 ## 📄 License
